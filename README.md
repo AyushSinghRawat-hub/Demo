@@ -5,5 +5,7 @@ HTML, CSS, and JavaScript were used to create this website. With a responsive de
 <br>
 A brief description of my most recent projects is included on the Home page, along with an introduction to who I am and what I do. More specific information about my history, education, and professional experience is provided on the About page. On the Portfolio page, you can see screenshots and details of some of my most recent projects.
 ## ---
+<B>Codes for this website is not public right now.</B>
+
 ## Project snapshot
 ![s1](https://user-images.githubusercontent.com/85716437/232277100-fb29f412-1eb6-4c46-a33d-fb3af1fa05c0.png)
